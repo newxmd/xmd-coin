@@ -109,9 +109,7 @@ const std::initializer_list<const char*> SEED_NODES = {
   "seed1.xmdcoin.com:65201",
   "seed2.xmdcoin.com:65201",
   "seed3.xmdcoin.com:65201",
-  "seed4.xmdcoin.com:65201",
-  "seed5.xmdcoin.com:65201",
-  "seed6.xmdcoin.com:65201",
+  "seed4.xmdcoin.com:65201"
 };
 
 struct CheckpointData {
