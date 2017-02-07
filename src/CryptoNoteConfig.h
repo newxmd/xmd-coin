@@ -68,11 +68,11 @@ const uint64_t P2P_DEFAULT_INVOKE_TIMEOUT                    = 60 * 2 * 1000; //
 const size_t   P2P_DEFAULT_HANDSHAKE_INVOKE_TIMEOUT          = 5000;          // 5 seconds
 const char     P2P_STAT_TRUSTED_PUB_KEY[]                    = "8f80f9a5a434a9f1510d13336228debfee9c918ce505efe225d8c94d045fa115";
 const std::initializer_list<const char*> SEED_NODES = {
-  "seed11.xmdcoin.com:63666",
-  "seed22.xmdcoin.com:63666",
-  "seed33.xmdcoin.com:63666",
-  "seed44.xmdcoin.com:63666",
-  "pool1.xmdcoin.com:63666"
+  "seed1.xmdcoin.com:63666",
+  "seed2.xmdcoin.com:63666",
+  "seed3.xmdcoin.com:63666",
+  "seed4.xmdcoin.com:63666",
+  "pool.xmdcoin.com:63666"
 };
 struct CheckpointData {
   uint32_t height;
