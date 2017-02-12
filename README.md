@@ -8,7 +8,7 @@ You can find everything about XMD at [xmdcoin.com](xmdcoin.com)
 ### Compiling the coin :
 
 
-### Windows 64 bit (tested on windows 10 , windows 2016 server, windows 2008 server R2)
+Windows 64 bit (tested on windows 10 , windows 2016 server, windows 2008 server R2)
 
 1.Download Microsoft Visual Studio Community Edition 2013 https://go.microsoft.com/fwlink/?LinkId=517284
 
