@@ -1,10 +1,5 @@
 ## XMD COIN
 
-### Website
-
-You can find everything about XMD at [xmdcoin.com](xmdcoin.com)
-
-
 ### Compiling the coin :
 
 
@@ -26,7 +21,7 @@ Windows 64 bit (tested on windows 10 , windows 2016 server, windows 2008 server 
 
 8.inside this folder open a command line that has the git command in (for example a git bash, or a visual studio command line)
 
-9.run "git clone https://github.com/upggr/xmd-coin.git xmd-coin"
+9.run "git clone https://github.com/newxmd/xmd-coin.git xmd-coin"
 
 10.Start cmake and point it to this folder for the source code and wherever you want the release binaries to be.
 
@@ -57,7 +52,7 @@ Windows 64 bit (tested on windows 10 , windows 2016 server, windows 2008 server 
 
 Windows 64 bit (tested on windows 10 , windows 2016 server, windows 2008 server R2)
 
-1.Everything is per above steps, but you need to clone the wallet https://github.com/upggr/xmdwallet and inside this folder clone the coin https://github.com/upggr/xmd-coin.git
+1.Everything is per above steps, but you need to clone the wallet https://github.com/newxmd/xmdwallet and inside this folder clone the coin https://github.com/newxmd/xmd-coin.git
 
 2.If you followed step 1 correctly using git or by downloading and unzipping from github, you should have a folder with the wallet source code and inside this folder a folder named xmd-coin that has the coin code.
 
